@@ -1,4 +1,4 @@
-#simple-dnsmanager
+# simple-dnsmanager
 This simple project was developed to manage a really naive DNS server.
 ## Features
 -   Add domains
