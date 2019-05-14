@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /path/to/simple-dnsmanager
+/path/to/pipenv run ./server.py
